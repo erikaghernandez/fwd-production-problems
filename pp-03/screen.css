@@ -47,6 +47,8 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
   #two,
   #one {
     flex: 1 0 50%;
+    /*height: 100vw; */
+    height: 50vw;
   }
 
   #three{
