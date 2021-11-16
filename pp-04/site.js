@@ -26,6 +26,7 @@ console.log('The value of x is', x, '-- it should be 5.');
   can accurately test your work.
 */
 
+/*
 var x = 5;
 
 var double  = function(num){
@@ -38,6 +39,7 @@ var double  = function(num){
 double(6);
 console.log('The value of x is', x, '-- it should be 5.');
 
+*/
 
 /*
   Step 3. Rewrite your corrected `double()` function from Step 2.
