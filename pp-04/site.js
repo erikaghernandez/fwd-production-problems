@@ -4,7 +4,7 @@
   `x` as the variable inside the function, however.
 */
 
-x = 5;
+let x = 5;
 
 function double(num) {
   x = num * 2;
